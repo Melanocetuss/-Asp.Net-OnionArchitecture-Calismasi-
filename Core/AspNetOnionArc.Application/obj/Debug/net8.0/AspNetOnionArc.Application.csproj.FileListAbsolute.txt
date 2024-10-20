@@ -1,0 +1,15 @@
+C:\Users\alpha\source\repos\-Asp.Net-OnionArchitecture-Calismasi-\Core\AspNetOnionArc.Application\bin\Debug\net8.0\AspNetOnionArc.Application.deps.json
+C:\Users\alpha\source\repos\-Asp.Net-OnionArchitecture-Calismasi-\Core\AspNetOnionArc.Application\bin\Debug\net8.0\AspNetOnionArc.Application.dll
+C:\Users\alpha\source\repos\-Asp.Net-OnionArchitecture-Calismasi-\Core\AspNetOnionArc.Application\bin\Debug\net8.0\AspNetOnionArc.Application.pdb
+C:\Users\alpha\source\repos\-Asp.Net-OnionArchitecture-Calismasi-\Core\AspNetOnionArc.Application\bin\Debug\net8.0\AspNetOnionArc.Domain.dll
+C:\Users\alpha\source\repos\-Asp.Net-OnionArchitecture-Calismasi-\Core\AspNetOnionArc.Application\bin\Debug\net8.0\AspNetOnionArc.Domain.pdb
+C:\Users\alpha\source\repos\-Asp.Net-OnionArchitecture-Calismasi-\Core\AspNetOnionArc.Application\obj\Debug\net8.0\AspNetOnionArc.Application.csproj.AssemblyReference.cache
+C:\Users\alpha\source\repos\-Asp.Net-OnionArchitecture-Calismasi-\Core\AspNetOnionArc.Application\obj\Debug\net8.0\AspNetOnionArc.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alpha\source\repos\-Asp.Net-OnionArchitecture-Calismasi-\Core\AspNetOnionArc.Application\obj\Debug\net8.0\AspNetOnionArc.Application.AssemblyInfoInputs.cache
+C:\Users\alpha\source\repos\-Asp.Net-OnionArchitecture-Calismasi-\Core\AspNetOnionArc.Application\obj\Debug\net8.0\AspNetOnionArc.Application.AssemblyInfo.cs
+C:\Users\alpha\source\repos\-Asp.Net-OnionArchitecture-Calismasi-\Core\AspNetOnionArc.Application\obj\Debug\net8.0\AspNetOnionArc.Application.csproj.CoreCompileInputs.cache
+C:\Users\alpha\source\repos\-Asp.Net-OnionArchitecture-Calismasi-\Core\AspNetOnionArc.Application\obj\Debug\net8.0\AspNetOn.598CF551.Up2Date
+C:\Users\alpha\source\repos\-Asp.Net-OnionArchitecture-Calismasi-\Core\AspNetOnionArc.Application\obj\Debug\net8.0\AspNetOnionArc.Application.dll
+C:\Users\alpha\source\repos\-Asp.Net-OnionArchitecture-Calismasi-\Core\AspNetOnionArc.Application\obj\Debug\net8.0\refint\AspNetOnionArc.Application.dll
+C:\Users\alpha\source\repos\-Asp.Net-OnionArchitecture-Calismasi-\Core\AspNetOnionArc.Application\obj\Debug\net8.0\AspNetOnionArc.Application.pdb
+C:\Users\alpha\source\repos\-Asp.Net-OnionArchitecture-Calismasi-\Core\AspNetOnionArc.Application\obj\Debug\net8.0\ref\AspNetOnionArc.Application.dll

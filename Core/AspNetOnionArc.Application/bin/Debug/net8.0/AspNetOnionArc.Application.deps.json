@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AspNetOnionArc.Application/1.0.0": {
+        "dependencies": {
+          "AspNetOnionArc.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AspNetOnionArc.Application.dll": {}
+        }
+      },
+      "AspNetOnionArc.Domain/1.0.0": {
+        "runtime": {
+          "AspNetOnionArc.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AspNetOnionArc.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AspNetOnionArc.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

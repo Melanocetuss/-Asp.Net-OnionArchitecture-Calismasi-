@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Iv3gn7Wi8oEIFwNqZYtHTnBdFPW5nSDnoO/kBt2KsJE=",
+  "Source": "AspNetOnionArc.WebApi",
+  "BasePath": "_content/AspNetOnionArc.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
