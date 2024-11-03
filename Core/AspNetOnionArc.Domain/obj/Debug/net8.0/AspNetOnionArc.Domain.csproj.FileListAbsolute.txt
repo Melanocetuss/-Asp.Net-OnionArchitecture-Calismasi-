@@ -9,3 +9,14 @@ C:\Users\alpha\source\repos\-Asp.Net-OnionArchitecture-Calismasi-\Core\AspNetOni
 C:\Users\alpha\source\repos\-Asp.Net-OnionArchitecture-Calismasi-\Core\AspNetOnionArc.Domain\obj\Debug\net8.0\refint\AspNetOnionArc.Domain.dll
 C:\Users\alpha\source\repos\-Asp.Net-OnionArchitecture-Calismasi-\Core\AspNetOnionArc.Domain\obj\Debug\net8.0\AspNetOnionArc.Domain.pdb
 C:\Users\alpha\source\repos\-Asp.Net-OnionArchitecture-Calismasi-\Core\AspNetOnionArc.Domain\obj\Debug\net8.0\ref\AspNetOnionArc.Domain.dll
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\-Asp.Net-OnionArchitecture-Calismasi--main\Core\AspNetOnionArc.Domain\bin\Debug\net8.0\AspNetOnionArc.Domain.deps.json
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\-Asp.Net-OnionArchitecture-Calismasi--main\Core\AspNetOnionArc.Domain\bin\Debug\net8.0\AspNetOnionArc.Domain.dll
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\-Asp.Net-OnionArchitecture-Calismasi--main\Core\AspNetOnionArc.Domain\bin\Debug\net8.0\AspNetOnionArc.Domain.pdb
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\-Asp.Net-OnionArchitecture-Calismasi--main\Core\AspNetOnionArc.Domain\obj\Debug\net8.0\AspNetOnionArc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\-Asp.Net-OnionArchitecture-Calismasi--main\Core\AspNetOnionArc.Domain\obj\Debug\net8.0\AspNetOnionArc.Domain.AssemblyInfoInputs.cache
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\-Asp.Net-OnionArchitecture-Calismasi--main\Core\AspNetOnionArc.Domain\obj\Debug\net8.0\AspNetOnionArc.Domain.AssemblyInfo.cs
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\-Asp.Net-OnionArchitecture-Calismasi--main\Core\AspNetOnionArc.Domain\obj\Debug\net8.0\AspNetOnionArc.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\-Asp.Net-OnionArchitecture-Calismasi--main\Core\AspNetOnionArc.Domain\obj\Debug\net8.0\AspNetOnionArc.Domain.dll
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\-Asp.Net-OnionArchitecture-Calismasi--main\Core\AspNetOnionArc.Domain\obj\Debug\net8.0\refint\AspNetOnionArc.Domain.dll
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\-Asp.Net-OnionArchitecture-Calismasi--main\Core\AspNetOnionArc.Domain\obj\Debug\net8.0\AspNetOnionArc.Domain.pdb
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\-Asp.Net-OnionArchitecture-Calismasi--main\Core\AspNetOnionArc.Domain\obj\Debug\net8.0\ref\AspNetOnionArc.Domain.dll

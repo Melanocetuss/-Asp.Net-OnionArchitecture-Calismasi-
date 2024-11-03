@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alpha\\source\\repos\\-Asp.Net-OnionArchitecture-Calismasi-\\Core\\AspNetOnionArc.Domain\\AspNetOnionArc.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\alpha\\OneDrive\\Masaüstü\\Project\\C#\\-Asp.Net-OnionArchitecture-Calismasi--main\\Core\\AspNetOnionArc.Domain\\AspNetOnionArc.Domain.csproj",
       "projectName": "AspNetOnionArc.Domain",
-      "projectPath": "C:\\Users\\alpha\\source\\repos\\-Asp.Net-OnionArchitecture-Calismasi-\\Core\\AspNetOnionArc.Domain\\AspNetOnionArc.Domain.csproj",
+      "projectPath": "C:\\Users\\alpha\\OneDrive\\Masaüstü\\Project\\C#\\-Asp.Net-OnionArchitecture-Calismasi--main\\Core\\AspNetOnionArc.Domain\\AspNetOnionArc.Domain.csproj",
       "packagesPath": "C:\\Users\\alpha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alpha\\source\\repos\\-Asp.Net-OnionArchitecture-Calismasi-\\Core\\AspNetOnionArc.Domain\\obj\\",
+      "outputPath": "C:\\Users\\alpha\\OneDrive\\Masaüstü\\Project\\C#\\-Asp.Net-OnionArchitecture-Calismasi--main\\Core\\AspNetOnionArc.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alpha\\source\\repos\\-Asp.Net-OnionArchitecture-Calismasi-\\Infrastructure\\AspNetOnionArc.Persistence\\AspNetOnionArc.Persistence.csproj": {}
+    "C:\\Users\\alpha\\OneDrive\\Masaüstü\\Project\\C#\\-Asp.Net-OnionArchitecture-Calismasi--main\\Infrastructure\\AspNetOnionArc.Persistence\\AspNetOnionArc.Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alpha\\source\\repos\\-Asp.Net-OnionArchitecture-Calismasi-\\Core\\AspNetOnionArc.Application\\AspNetOnionArc.Application.csproj": {
+    "C:\\Users\\alpha\\OneDrive\\Masaüstü\\Project\\C#\\-Asp.Net-OnionArchitecture-Calismasi--main\\Core\\AspNetOnionArc.Application\\AspNetOnionArc.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alpha\\source\\repos\\-Asp.Net-OnionArchitecture-Calismasi-\\Core\\AspNetOnionArc.Application\\AspNetOnionArc.Application.csproj",
+        "projectUniqueName": "C:\\Users\\alpha\\OneDrive\\Masaüstü\\Project\\C#\\-Asp.Net-OnionArchitecture-Calismasi--main\\Core\\AspNetOnionArc.Application\\AspNetOnionArc.Application.csproj",
         "projectName": "AspNetOnionArc.Application",
-        "projectPath": "C:\\Users\\alpha\\source\\repos\\-Asp.Net-OnionArchitecture-Calismasi-\\Core\\AspNetOnionArc.Application\\AspNetOnionArc.Application.csproj",
+        "projectPath": "C:\\Users\\alpha\\OneDrive\\Masaüstü\\Project\\C#\\-Asp.Net-OnionArchitecture-Calismasi--main\\Core\\AspNetOnionArc.Application\\AspNetOnionArc.Application.csproj",
         "packagesPath": "C:\\Users\\alpha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alpha\\source\\repos\\-Asp.Net-OnionArchitecture-Calismasi-\\Core\\AspNetOnionArc.Application\\obj\\",
+        "outputPath": "C:\\Users\\alpha\\OneDrive\\Masaüstü\\Project\\C#\\-Asp.Net-OnionArchitecture-Calismasi--main\\Core\\AspNetOnionArc.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
@@ -36,8 +36,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\alpha\\source\\repos\\-Asp.Net-OnionArchitecture-Calismasi-\\Core\\AspNetOnionArc.Domain\\AspNetOnionArc.Domain.csproj": {
-                "projectPath": "C:\\Users\\alpha\\source\\repos\\-Asp.Net-OnionArchitecture-Calismasi-\\Core\\AspNetOnionArc.Domain\\AspNetOnionArc.Domain.csproj"
+              "C:\\Users\\alpha\\OneDrive\\Masaüstü\\Project\\C#\\-Asp.Net-OnionArchitecture-Calismasi--main\\Core\\AspNetOnionArc.Domain\\AspNetOnionArc.Domain.csproj": {
+                "projectPath": "C:\\Users\\alpha\\OneDrive\\Masaüstü\\Project\\C#\\-Asp.Net-OnionArchitecture-Calismasi--main\\Core\\AspNetOnionArc.Domain\\AspNetOnionArc.Domain.csproj"
               }
             }
           }
@@ -56,6 +56,20 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -76,14 +90,14 @@
         }
       }
     },
-    "C:\\Users\\alpha\\source\\repos\\-Asp.Net-OnionArchitecture-Calismasi-\\Core\\AspNetOnionArc.Domain\\AspNetOnionArc.Domain.csproj": {
+    "C:\\Users\\alpha\\OneDrive\\Masaüstü\\Project\\C#\\-Asp.Net-OnionArchitecture-Calismasi--main\\Core\\AspNetOnionArc.Domain\\AspNetOnionArc.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alpha\\source\\repos\\-Asp.Net-OnionArchitecture-Calismasi-\\Core\\AspNetOnionArc.Domain\\AspNetOnionArc.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\alpha\\OneDrive\\Masaüstü\\Project\\C#\\-Asp.Net-OnionArchitecture-Calismasi--main\\Core\\AspNetOnionArc.Domain\\AspNetOnionArc.Domain.csproj",
         "projectName": "AspNetOnionArc.Domain",
-        "projectPath": "C:\\Users\\alpha\\source\\repos\\-Asp.Net-OnionArchitecture-Calismasi-\\Core\\AspNetOnionArc.Domain\\AspNetOnionArc.Domain.csproj",
+        "projectPath": "C:\\Users\\alpha\\OneDrive\\Masaüstü\\Project\\C#\\-Asp.Net-OnionArchitecture-Calismasi--main\\Core\\AspNetOnionArc.Domain\\AspNetOnionArc.Domain.csproj",
         "packagesPath": "C:\\Users\\alpha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alpha\\source\\repos\\-Asp.Net-OnionArchitecture-Calismasi-\\Core\\AspNetOnionArc.Domain\\obj\\",
+        "outputPath": "C:\\Users\\alpha\\OneDrive\\Masaüstü\\Project\\C#\\-Asp.Net-OnionArchitecture-Calismasi--main\\Core\\AspNetOnionArc.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
@@ -144,14 +158,14 @@
         }
       }
     },
-    "C:\\Users\\alpha\\source\\repos\\-Asp.Net-OnionArchitecture-Calismasi-\\Infrastructure\\AspNetOnionArc.Persistence\\AspNetOnionArc.Persistence.csproj": {
+    "C:\\Users\\alpha\\OneDrive\\Masaüstü\\Project\\C#\\-Asp.Net-OnionArchitecture-Calismasi--main\\Infrastructure\\AspNetOnionArc.Persistence\\AspNetOnionArc.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alpha\\source\\repos\\-Asp.Net-OnionArchitecture-Calismasi-\\Infrastructure\\AspNetOnionArc.Persistence\\AspNetOnionArc.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\alpha\\OneDrive\\Masaüstü\\Project\\C#\\-Asp.Net-OnionArchitecture-Calismasi--main\\Infrastructure\\AspNetOnionArc.Persistence\\AspNetOnionArc.Persistence.csproj",
         "projectName": "AspNetOnionArc.Persistence",
-        "projectPath": "C:\\Users\\alpha\\source\\repos\\-Asp.Net-OnionArchitecture-Calismasi-\\Infrastructure\\AspNetOnionArc.Persistence\\AspNetOnionArc.Persistence.csproj",
+        "projectPath": "C:\\Users\\alpha\\OneDrive\\Masaüstü\\Project\\C#\\-Asp.Net-OnionArchitecture-Calismasi--main\\Infrastructure\\AspNetOnionArc.Persistence\\AspNetOnionArc.Persistence.csproj",
         "packagesPath": "C:\\Users\\alpha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alpha\\source\\repos\\-Asp.Net-OnionArchitecture-Calismasi-\\Infrastructure\\AspNetOnionArc.Persistence\\obj\\",
+        "outputPath": "C:\\Users\\alpha\\OneDrive\\Masaüstü\\Project\\C#\\-Asp.Net-OnionArchitecture-Calismasi--main\\Infrastructure\\AspNetOnionArc.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
@@ -176,11 +190,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\alpha\\source\\repos\\-Asp.Net-OnionArchitecture-Calismasi-\\Core\\AspNetOnionArc.Application\\AspNetOnionArc.Application.csproj": {
-                "projectPath": "C:\\Users\\alpha\\source\\repos\\-Asp.Net-OnionArchitecture-Calismasi-\\Core\\AspNetOnionArc.Application\\AspNetOnionArc.Application.csproj"
+              "C:\\Users\\alpha\\OneDrive\\Masaüstü\\Project\\C#\\-Asp.Net-OnionArchitecture-Calismasi--main\\Core\\AspNetOnionArc.Application\\AspNetOnionArc.Application.csproj": {
+                "projectPath": "C:\\Users\\alpha\\OneDrive\\Masaüstü\\Project\\C#\\-Asp.Net-OnionArchitecture-Calismasi--main\\Core\\AspNetOnionArc.Application\\AspNetOnionArc.Application.csproj"
               },
-              "C:\\Users\\alpha\\source\\repos\\-Asp.Net-OnionArchitecture-Calismasi-\\Core\\AspNetOnionArc.Domain\\AspNetOnionArc.Domain.csproj": {
-                "projectPath": "C:\\Users\\alpha\\source\\repos\\-Asp.Net-OnionArchitecture-Calismasi-\\Core\\AspNetOnionArc.Domain\\AspNetOnionArc.Domain.csproj"
+              "C:\\Users\\alpha\\OneDrive\\Masaüstü\\Project\\C#\\-Asp.Net-OnionArchitecture-Calismasi--main\\Core\\AspNetOnionArc.Domain\\AspNetOnionArc.Domain.csproj": {
+                "projectPath": "C:\\Users\\alpha\\OneDrive\\Masaüstü\\Project\\C#\\-Asp.Net-OnionArchitecture-Calismasi--main\\Core\\AspNetOnionArc.Domain\\AspNetOnionArc.Domain.csproj"
               }
             }
           }
